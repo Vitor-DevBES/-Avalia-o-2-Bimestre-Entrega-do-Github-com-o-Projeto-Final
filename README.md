@@ -7,7 +7,7 @@ Link para visualização online
 
 Você pode acessar o projeto finalizado clicando no link abaixo:
 
-https://avalia-o-2-bimestre-entrega-do-github-com-o-projeto-cokj0604n.vercel.app/
+https://avalia-o-2-bimestre-entrega-do-github-com-o-projeto-final.vercel.app/
 
 Informações do desenvolvedor
 - Nome: Vitor Hugo de Oliveira
